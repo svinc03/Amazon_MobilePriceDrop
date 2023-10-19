@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Edge: Amazon Sign-In app",
+  "Type": "App",
+  "Id": "xDzhr_Ib3UG6HFQr2lCC_A",
+  "Reference": "8v_9hlTcBEWN03keCmgBOg/xDzhr_Ib3UG6HFQr2lCC_A",
+  "Created": "2023-10-10T04:12:46.3267541Z",
+  "Updated": "2023-10-10T04:12:46.3267541Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

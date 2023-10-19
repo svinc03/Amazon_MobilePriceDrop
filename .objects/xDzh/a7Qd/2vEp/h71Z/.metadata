@@ -1,0 +1,13 @@
+﻿{
+  "Name": "INPUT continue",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "h71Zx_Pvv0q_N7mxp11CDQ",
+  "Reference": "8v_9hlTcBEWN03keCmgBOg/h71Zx_Pvv0q_N7mxp11CDQ",
+  "ParentRef": "8v_9hlTcBEWN03keCmgBOg/2vEp1BYDMUi_fAIElM6Jdw",
+  "Created": "2023-10-10T04:12:47.027317Z",
+  "Updated": "2023-10-10T04:12:47.027317Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

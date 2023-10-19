@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Amazon Sign-In",
+  "Type": "Screen",
+  "Id": "2vEp1BYDMUi_fAIElM6Jdw",
+  "Reference": "8v_9hlTcBEWN03keCmgBOg/2vEp1BYDMUi_fAIElM6Jdw",
+  "ParentRef": "8v_9hlTcBEWN03keCmgBOg/a7Qd31uJtUqu8q9szebr_g",
+  "Created": "2023-10-10T04:12:46.9620245Z",
+  "Updated": "2023-10-10T04:12:46.9620245Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
